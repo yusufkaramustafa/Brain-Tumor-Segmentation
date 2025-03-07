@@ -2,14 +2,6 @@
 
 This repository contains the code and resources for the Deep Learning project titled "Comparative Analysis of Deep Learning Models for Multi-Modal Brain Tumor Segmentation".
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Dataset](#dataset)
-- [Models](#models)
-- [Results](#results)
-- [Requirements](#requirements)
-- [Usage](#usage)
-
 ## Introduction
 Brain tumor segmentation is a crucial process in medical image analysis, enabling the identification and delineation of tumor regions in brain scans. This project aims to compare various deep learning models for multi-modal brain tumor segmentation.
 
@@ -24,25 +16,6 @@ The following deep learning models are compared in this project:
 
 ## Results
 Detailed results can be found in the corresponding Jupyter notebooks.
-
-## Requirements
-To run the code in this repository, the following libraries and dependencies are required:
-- Python 3.x
-- Jupyter Notebook
-- TensorFlow
-- Keras
-- PyTorch
-- Torchvision
-- NumPy
-- Pandas
-- SciPy
-- scikit-learn
-- scikit-image
-- matplotlib
-- OpenCV
-- nibabel
-- Pillow
-- torchinfo
 
 ## Usage
 To run the experiments and reproduce the results, follow these steps:
