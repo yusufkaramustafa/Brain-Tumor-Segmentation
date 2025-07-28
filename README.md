@@ -1,3 +1,4 @@
+![Model prediction animation](figures/prediction.gif)
 # Comparative Analysis of Deep Learning Models for Multi-Modal Brain Tumor Segmentation
 
 This repository contains the code and resources for the Deep Learning project titled "Comparative Analysis of Deep Learning Models for Multi-Modal Brain Tumor Segmentation".
